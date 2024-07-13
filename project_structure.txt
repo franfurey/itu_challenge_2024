@@ -1,0 +1,16 @@
+.
+├── LICENSE
+├── README.md
+├── data
+│   └── geoai-ground-level-no2-estimation-challenge20240710-12938-q3sk51
+│       ├── DataDescription.pdf
+│       ├── SampleSubmission.csv
+│       ├── Test.csv
+│       ├── Train.csv
+│       └── manifest-0e3f74fe598af08986d762221d01a08120240710-12938-ady2o0.json
+├── project_structure.txt
+├── readme_for_llms.md
+└── sandbox_franfurey
+    └── seeing_original_data.ipynb
+
+4 directories, 10 files
