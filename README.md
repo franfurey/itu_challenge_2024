@@ -29,5 +29,5 @@ GeoAI Ground-level NO2 Estimation Challenge by ITU
 
 4. Create a Jupyter Notebook kernel linked to the venv:
     ```sh
-    ipython kernel install --user --name=itu_challenge_2024
+    python -m ipykernel install --user --name=itu_challenge --display-name "ITU Challenge 2024"
     ```
